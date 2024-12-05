@@ -1,1 +1,3 @@
-// TODO :tornado::dog::tornado:
+Watson's Demos
+
+[Java Style Guide](STYLE.md)
